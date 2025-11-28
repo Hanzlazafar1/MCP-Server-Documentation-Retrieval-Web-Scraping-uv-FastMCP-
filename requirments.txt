@@ -1,0 +1,7 @@
+streamlit
+asyncio
+python-dotenv
+mcp
+httpx
+trafilatura
+groq
